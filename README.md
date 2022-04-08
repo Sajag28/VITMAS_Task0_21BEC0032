@@ -5,11 +5,11 @@ Github Commands:-
 
 1.) First Command
 
-git config –global user.name Anurag – For configuring the name 
+git config –global user.name Sajag – For configuring the name 
 
 2.) Second Command
 	
-git config –global user.email beaprogrammer24@gmail.com – to set the email 
+git config –global user.email sajagaga2806@gmail.com – to set the email 
 
 3.) Third Command
 
