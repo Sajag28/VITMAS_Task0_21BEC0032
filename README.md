@@ -49,7 +49,7 @@ touch new.java – to create a empty file named with new and of extension java
  
 12.) Twelfth Command
  
-git add -A – To add all the untracked files to staging area
+git add -A – To make the all the files to be tracked
  
 13.) Thirteenth Command
 
@@ -77,6 +77,6 @@ touch delete.java -to create a empty file
 
 19.) Nineteenth Command
 
-git rm waste.html -used for deleting a file 
+git rm waste.java -used for deleting a file 
 
 
